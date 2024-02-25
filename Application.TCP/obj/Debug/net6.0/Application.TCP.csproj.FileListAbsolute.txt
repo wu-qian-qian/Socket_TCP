@@ -1,0 +1,12 @@
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\Application.TCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\Application.TCP.AssemblyInfoInputs.cache
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\Application.TCP.AssemblyInfo.cs
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\Application.TCP.csproj.CoreCompileInputs.cache
+D:\Program\Server_Tcp\Application.TCP\bin\Debug\net6.0\Application.TCP.deps.json
+D:\Program\Server_Tcp\Application.TCP\bin\Debug\net6.0\Application.TCP.dll
+D:\Program\Server_Tcp\Application.TCP\bin\Debug\net6.0\Application.TCP.pdb
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\Application.TCP.csproj.AssemblyReference.cache
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\Application.TCP.dll
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\refint\Application.TCP.dll
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\Application.TCP.pdb
+D:\Program\Server_Tcp\Application.TCP\obj\Debug\net6.0\ref\Application.TCP.dll
